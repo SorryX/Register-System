@@ -1,6 +1,8 @@
 # Register-System
 **A registration system witch helps you make your user system**
 
+**Everything is coded by me and some things i took from random websites because if you read under this you will understand ;)**
+
 [*NOTE THAT I AM NOT GOOD AT PHP AND THIS CODE MAY BE RANDOM*]
 
 ## How to Setup
